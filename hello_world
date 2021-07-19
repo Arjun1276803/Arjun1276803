@@ -1,0 +1,4 @@
+print("Hello world")
+a = int(input())
+if a == 3 :
+print("hello world")
