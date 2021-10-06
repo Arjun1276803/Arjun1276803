@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data science with IBM
 - 💞️ I’m looking to collaborate on the intersting topics on the data science
 - 📫 How to reach me on linked in Mylagonda Arjun
-
+- Presently doing an virtual intenship with Microsovft.
 
 <!---
 Arjun1276803/Arjun1276803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
